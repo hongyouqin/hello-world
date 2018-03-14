@@ -3,3 +3,4 @@ hello git
 所以我们还是要从容面对生活
 从今年到我老的那天，都是奋斗
 I will happy
+Git has a mutable index called stage.
